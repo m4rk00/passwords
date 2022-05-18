@@ -32,7 +32,7 @@
                 android:layout_marginStart="20dp"
                 android:layout_marginTop="30dp"
                 android:layout_marginEnd="20dp"
-                android:drawableLeft="@drawable/icon_email"
+                android:drawableLeft="@drawable/gmail"
                 android:ems="10"
                 android:hint="Correo"
                 android:inputType="textEmailAddress"
