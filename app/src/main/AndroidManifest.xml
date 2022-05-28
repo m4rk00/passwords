@@ -9,6 +9,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LogoApp">
         <activity
+            android:name=".RegistroActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity2"
             android:exported="true">
             <intent-filter>
